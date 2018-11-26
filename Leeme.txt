@@ -1,0 +1,11 @@
+Nombre: Gonzalo Miranda Cabrera.
+Seccion: 2.
+Porciones de texto asignados respectivamente: Hechos 12 - Hechos 16.
+					      Hechos 17 - Hechos 21.
+
+Para compilar y ejecutar el programa:
+1.- Extraer la carpeta comprimida Gonzalo_Miranda_Sec2.7z en el escritorio u otra direccion.
+2.- Abrir la consola de comandos y dirigirse a la carpeta, que deberia estar descomprimida.
+3.- Utilizar javac -cp ./Jar/* Tarea.java para compilar el programa
+4.- Utilizar java -cp ./Jar/*;. Tarea para ejecutar el programa.
+
